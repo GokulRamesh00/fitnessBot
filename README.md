@@ -21,6 +21,7 @@ The **Fitness Assistant Chatbot** is an AI-powered chatbot designed to create a 
 
     ```
    Run the chatbot:
+   pip install -r requirements.txt
    python -m streamlit run fitnessBot.py
    ```
 
